@@ -1,0 +1,8 @@
+{
+  "name": "book-download-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^4.17.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
